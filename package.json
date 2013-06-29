@@ -1,0 +1,29 @@
+{
+  "name": "node-cms",
+  "version": "0.0.0",
+  "description": "A CMS for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UmbraEngineering/node-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "content",
+    "management",
+    "websites",
+    "publishing"
+  ],
+  "author": "James Brumond <http://www.jbrumond.me> (james@jbrumond.me)",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "gitHead": "949923e19a092cc22b8b13a25f243c611b17e167",
+  "dependencies": {
+    "express": "~3.3.1",
+    "merge-recursive": "0.0.3",
+    "mongoose-models": "~0.3.1"
+  }
+}
